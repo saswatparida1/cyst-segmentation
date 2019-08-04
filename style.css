@@ -1,0 +1,36 @@
+GtkHeaderBar#lay{
+    background-color: red;
+    background:	grey33;
+    color: magenta;
+}
+
+GtkBox#lay{
+    background-color: red;
+    background:	orchid4	;
+}
+
+GtkTreeView{
+    background-color: red;
+    background:	grey75	;
+    color: grey33;
+
+}
+
+GtkToolbar{
+    background-color: red;
+    background:grey33;
+
+}
+GtkFileChooserDialog{
+    background:	grey93;
+    background:	grey33;
+    color: white;
+}
+GtkButton{
+
+    background-color: red;
+    background:	grey33;
+    color:magenta;
+
+}
+
